@@ -14,3 +14,9 @@ end_date = "2025-04-12"
 ![](image-1.png)
 
 ## 1-2
+Back-test 資料夾裡的
+5年訓練 5年測試
+
+## p2
+pairs_strategy.py
+結果為result_ml裡 帶有pairs的檔案
