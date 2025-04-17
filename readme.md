@@ -15,8 +15,12 @@ end_date = "2025-04-12"
 
 ## 1-2
 Back-test 資料夾裡的
-5年訓練 5年測試
+![alt text](image-2.png)
+P1-2的部分
+範例 模型 AAPL_2015_2022 
+AAPL 指股票代號
+2015_2022 指訓練集時間範圍
 
 ## p2
 pairs_strategy.py
-結果為result_ml裡 帶有pairs的檔案
+後綴帶P2的部分
